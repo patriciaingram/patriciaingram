@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patriciaingram
 - 👀 I’m interested in technology!
 - 🌱 I’m currently studying Software Engineering.
-- 💞️ I’m looking to collaborate on coding resources.
+- 💞️ I’m looking to collaborate on coding resourcesn and job opportunities.
 - 📫 How to reach me patty.ingram@gmail.com
 
 <!---
